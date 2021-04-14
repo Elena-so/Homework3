@@ -1,0 +1,15 @@
+.active {
+  color: red;
+}
+.line {
+  display: inline-block;
+  border-bottom: 1px solid #222222;
+  width: 100px;
+  position: absolute;
+  left: 0;
+  top: 7px;
+}
+.ui.comments .comment {
+  padding: 0;
+  margin: 2em 0 0;
+}
