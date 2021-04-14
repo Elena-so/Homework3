@@ -3,12 +3,14 @@ react-lesson。 gitee page: http://citos.gitee.io/react-lesson/
 
 ![capture1](https://user-images.githubusercontent.com/79709400/114721199-4cc56b00-9d6b-11eb-838c-017492dbc684.PNG)
 
-
 ![capture](https://user-images.githubusercontent.com/79709400/114722582-80ed5b80-9d6c-11eb-8b02-a7c4a250d57a.png)
+
 #搜索
 
 ![capture2](https://user-images.githubusercontent.com/79709400/114721243-58189680-9d6b-11eb-9906-78107e93fc4c.PNG)
+
 #dismiss不显示
+
 ![capture3](https://user-images.githubusercontent.com/79709400/114721283-5fd83b00-9d6b-11eb-8dc3-87fe78aed681.PNG)
 
 #### 从脚手架工程做起
